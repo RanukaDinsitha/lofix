@@ -22,8 +22,7 @@ It is a fully client-side application powered entirely by the YouTube Data API a
 
 ### 📸 Preview
 
-![LoFix Preview](https://ph-files.imgix.net/a03135fd-2de9-4e2c-8704-c46b3e48339b.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&fit=max&dpr=2)
-
+**To be added**
 ---
 
 ### 🏅 Original Project & Support
